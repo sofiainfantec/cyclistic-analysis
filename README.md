@@ -10,7 +10,7 @@ This repository contains the analysis of Cyclistic bike trip data, a bike-sharin
 - Explains the steps followed in the analysis: ask, prepare, process, analyze, share, and act.
 - Recommended to read before reviewing the other files to understand the project’s purpose.
 
-### 1. **Report.Rmd**
+### 2. **Report.Rmd**
 - An RMarkdown file containing the detailed analysis, from data preparation to visualization generation.
 - Recommended to be executed in RStudio.
 - Includes R code for data cleaning, analysis, and visualization.
