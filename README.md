@@ -1,7 +1,7 @@
 # Cyclistic Bike-Share Data Analysis
 
 ## Repository Overview
-This repository contains the analysis of Cyclistic bike trip data, a bike-sharing company in Chicago. The main objective is to identify differences in bike usage between casual riders and annual members to help develop marketing strategies.
+This repository contains a fictional analysis of Cyclistic bike trip data, based on the Case of Study Cyclistic Guide. Cyclistic is a bike-sharing company in Chicago, and this project aims to identify differences in bike usage between casual riders and annual members to help develop marketing strategies. The analysis and conclusions drawn are purely for educational purposes and do not reflect real-world data.
 
 ## Repository Contents
 
